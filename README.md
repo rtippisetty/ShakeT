@@ -13,10 +13,10 @@
         
 **(2) Application**
 Single screen app that has below features
-*Search screen with 
+* Search screen with 
   1. Search bar to search a Pokemon name and display contents(Sprite & it's shakespearean text) on UI
   2. Option to save as favourite from the search history
-*My Favourite screen 
+* My Favourite screen 
   1. Displays user's favourite Pokemon list
   2. Additionally, user can see the Pokemon details(Sprite & it's shakespearean text) on UI
 
