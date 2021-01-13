@@ -4,6 +4,8 @@
 https://github.com/rtippisetty/ShakeT/blob/master/Demo/working_demo.mp4
 
 ### Application screen shots ###
+https://github.com/rtippisetty/ShakeT/tree/master/Screenshots
+
 ### What is this repository for? ###
 * Sample Pokemon Search App
 * Given a Pokemon name the app searches for its existence and provides its Pokeman's sprite and it's shakespearean translated text on a UI component
