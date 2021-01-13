@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dimiss">Dismiss</string>
+    <string name="pokemon_sprite">Pokemon sprite picture</string>
+    <string name="pokemon_name">Pokemon</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShakeT</string>
+    <string name="title_my_favourite">My favourite</string>
+    <string name="title_search">Pokemon search</string>
+    <string name="search_hint">Enter Pokemon name</string>
+    <string name="search_label">Pokemon</string>
+    <string name="search">Search</string>
+    <string name="favourite_pokemon">Favourite Pokemons</string>
+    <string name="favourite_item_icon_desc">icon to set or unset pokemon as favourite</string>
+</resources>
