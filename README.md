@@ -7,18 +7,18 @@
 
 **(1) SDK - Shakemon**
 * Acts as a common service provider for 3 services
-* 1. Service that provides "Shakspearean text for a given Pokemon name"
-* 2. Service that provides "Sprite of a given Pokemon name"
-* 3. Service that displays "Shakspearean text" and "Sprite of a given Pokemon" on a dialog UI
+  1. Service that provides "Shakspearean text for a given Pokemon name"
+  2. Service that provides "Sprite of a given Pokemon name"
+  3. Service that displays "Shakspearean text" and "Sprite of a given Pokemon" on a dialog UI
         
 **(2) Application**
 Single screen app that has below features
-*1. Search screen with 
-* Search bar to search a Pokemon name and display contents(Sprite & it's shakespearean text) on UI
-* Option to save as favourite from the search history
-*2. My Favourite screen 
-* Displays user's favourite Pokemon list
-* Additionally, user can see the Pokemon details(Sprite & it's shakespearean text) on UI
+*Search screen with 
+  1. Search bar to search a Pokemon name and display contents(Sprite & it's shakespearean text) on UI
+  2. Option to save as favourite from the search history
+*My Favourite screen 
+  1. Displays user's favourite Pokemon list
+  2. Additionally, user can see the Pokemon details(Sprite & it's shakespearean text) on UI
 
 ### How do I get set up? ###
 **New Application with SDK please follow below steps**
